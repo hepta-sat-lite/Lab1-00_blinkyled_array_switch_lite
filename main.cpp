@@ -1,5 +1,5 @@
 #include "mbed.h"
-DigitalOut myled[]={LED1, PB_1};
+DigitalOut myled[]={PB_1, PA_5};
 int main()
 {
     int i=0;
